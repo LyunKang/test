@@ -16,7 +16,8 @@
 
 // CAboutDlg dialog used for App About
 
-// 가나다라마바사아
+// AAAA
+// BBBBBB
 
 class CAboutDlg : public CDialog
 {
@@ -83,6 +84,8 @@ HBRUSH CAboutDlg::OnCtlColor(CDC* pDC, CWnd* pWnd, UINT nCtlColor)
    return hBrush;
 }
 
+
+// 가나다라마바사아
 
 // CDemoDialog dialog 
 
