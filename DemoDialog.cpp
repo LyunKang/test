@@ -16,6 +16,8 @@
 
 // CAboutDlg dialog used for App About
 
+// 가나다라마바사아
+
 class CAboutDlg : public CDialog
 {
 // Construction
