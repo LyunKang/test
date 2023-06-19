@@ -1,0 +1,3 @@
+[submodule "gyoll"]
+	path = gyoll
+	url = https://github.com/LyunKang/gyoll.git
